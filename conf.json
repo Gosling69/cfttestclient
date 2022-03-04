@@ -1,0 +1,5 @@
+{
+    "serverHost": "localhost",
+    "serverPort": "9081",
+    "saveFolder": "someFolder"
+}
